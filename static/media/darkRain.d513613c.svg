@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#0d1017;display:block;z-index:1;position:relative" width="1084" height="322" preserveAspectRatio="xMidYMid" viewBox="0 0 1084 322">
+<defs>
+  <pattern id="pid-0.9687644395429946" x="0" y="0" width="163.84" height="163.84" patternUnits="userSpaceOnUse">
+    <g transform="scale(0.64)"><g>
+    <line x1="211.52495036359147" x2="187.95237693147993" y1="6.688701946118398" y2="30.26127537822991" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="211.52495036359147" x2="187.95237693147993" y1="-505.3112980538816" y2="-481.7387246217701" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="467.5249503635915" x2="443.95237693147993" y1="-505.3112980538816" y2="-481.7387246217701" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="723.5249503635914" x2="699.9523769314799" y1="-505.3112980538816" y2="-481.7387246217701" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="211.52495036359147" x2="187.95237693147993" y1="-249.31129805388161" y2="-225.73872462177007" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="467.5249503635915" x2="443.95237693147993" y1="-249.31129805388161" y2="-225.73872462177007" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="723.5249503635914" x2="699.9523769314799" y1="-249.31129805388161" y2="-225.73872462177007" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="211.52495036359147" x2="187.95237693147993" y1="6.688701946118398" y2="30.26127537822991" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="467.5249503635915" x2="443.95237693147993" y1="6.688701946118398" y2="30.26127537822991" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <line x1="723.5249503635914" x2="699.9523769314799" y1="6.688701946118398" y2="30.26127537822991" stroke-width="5" stroke="#1a212e" stroke-linecap="round"></line>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-256 256" keyTimes="0;1" repeatCount="indefinite" dur="5s"></animateTransform>
+    </g><g>
+    <line x1="262.9139665454315" x2="248.56415275717944" y1="60.71184017557993" y2="75.06165396383199" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="262.9139665454315" x2="248.56415275717944" y1="-451.28815982442006" y2="-436.938346036168" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="518.9139665454315" x2="504.56415275717944" y1="-451.28815982442006" y2="-436.938346036168" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="774.9139665454315" x2="760.5641527571795" y1="-451.28815982442006" y2="-436.938346036168" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="262.9139665454315" x2="248.56415275717944" y1="-195.28815982442006" y2="-180.938346036168" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="518.9139665454315" x2="504.56415275717944" y1="-195.28815982442006" y2="-180.938346036168" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="774.9139665454315" x2="760.5641527571795" y1="-195.28815982442006" y2="-180.938346036168" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="262.9139665454315" x2="248.56415275717944" y1="60.71184017557993" y2="75.06165396383199" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="518.9139665454315" x2="504.56415275717944" y1="60.71184017557993" y2="75.06165396383199" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="774.9139665454315" x2="760.5641527571795" y1="60.71184017557993" y2="75.06165396383199" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <line x1="6.913966545431492" x2="-7.435847242820557" y1="60.71184017557993" y2="75.06165396383199" stroke-width="5" stroke="#273246" stroke-linecap="round"></line>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-256 256" keyTimes="0;1" repeatCount="indefinite" dur="2.5s"></animateTransform>
+    </g><g>
+    <line x1="108.60594315606825" x2="90.35072953186982" y1="94.26809857196791" y2="112.52331219616634" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="108.60594315606825" x2="90.35072953186982" y1="-417.7319014280321" y2="-399.47668780383367" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="364.60594315606824" x2="346.35072953186983" y1="-417.7319014280321" y2="-399.47668780383367" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="620.6059431560683" x2="602.3507295318698" y1="-417.7319014280321" y2="-399.47668780383367" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="108.60594315606825" x2="90.35072953186982" y1="-161.73190142803207" y2="-143.47668780383367" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="364.60594315606824" x2="346.35072953186983" y1="-161.73190142803207" y2="-143.47668780383367" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="620.6059431560683" x2="602.3507295318698" y1="-161.73190142803207" y2="-143.47668780383367" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="108.60594315606825" x2="90.35072953186982" y1="94.26809857196791" y2="112.52331219616634" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="364.60594315606824" x2="346.35072953186983" y1="94.26809857196791" y2="112.52331219616634" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <line x1="620.6059431560683" x2="602.3507295318698" y1="94.26809857196791" y2="112.52331219616634" stroke-width="5" stroke="#34435d" stroke-linecap="round"></line>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-256 256" keyTimes="0;1" repeatCount="indefinite" dur="1.6666666666666665s"></animateTransform>
+    </g></g>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="1084" height="322" fill="url(#pid-0.9687644395429946)"></rect>
+</svg>
